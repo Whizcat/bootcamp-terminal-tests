@@ -1,1 +1,1 @@
-var functionToTest = require('../function-to-test');
+import functionToTest from '../function-to-test';
